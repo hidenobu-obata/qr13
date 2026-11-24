@@ -1,3 +1,6 @@
+/*更新１*/
+
+
 import { useState } from 'react';
 import { QRCodeSVG } from 'qrcode.react';
 
